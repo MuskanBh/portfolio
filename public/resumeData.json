@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "Muskan Bharalawala",
+    "occupation": "Currently I am working as Full Stack Developer at Dell Technologies",
+    "description": "I am a Learner",
+    "image": "profilepic.jpg",
+    "bio": "I am passionate about exploring new things and trying new hobbies. When I'm not coding, you can often find me with a paintbrush 🎨 in my hand, or may be a good thriller novel 📕.  I love to explore new places, whether it's a nearby hiking trail ⛰️ or a new city 🌆 to explore. As a developer, I bring this same sense of curiosity and willingness to explore to my work. I enjoy tackling new challenges and am always eager to learn new skills and technologies to improve my craft. I believe that a willingness to embrace new ideas and approaches is essential to staying at the forefront of the ever-changing world of web development.",
+    "contactmessage": "Get in touch with me",
+    "email": "muskanbharalawala10@gmail.com",
+    "phone": "+91-9777578550",
+    "address": {
+      "street": "Telenga Bazar",
+      "city": "Cuttack",
+      "state": "Odisha",
+      "zip": "753009"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+     
+    
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/muskan-bharalawala-a950b616a/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/MuskanBh",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "IIIT Bhubaneswar",
+        "degree": "Bachelor's Degree, ETC",
+        "description": "8.01 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Dell Technologies",
+        "experience": [
+          {"title": "Software Engineer 2",
+          "years":"April 2023 - Current",
+          "description":"Delivered a React Project"},
+          {"title": "Software Engineer 1",
+          "years":"July 2020 - April 2023",
+          "description":"Delivered a React Project"},
+          {"title": "Winter Intern",
+          "years":"Jan 2020 - May 2023",
+          "description":"Delivered a React Project"}
+        ]
+      }
+     
+     
+    ],
+    "skills": [
+      {
+        "name": "HTML"},
+      {
+        "name": "CSS"},
+      {
+        "name": "Javascript"},
+      {
+        "name": "Typescript"
+      },
+      {
+        "name": "ReactJS"
+      },
+      {
+        "name": "Angular"
+      },
+      {
+        "name": "Bootstrap"
+      },
+      {
+        "name": "Material UI"
+      },
+      {
+        "name":"C#"
+      },
+    
+      {
+        "name": ".Net Core"
+      },
+     
+      {
+        "name": "ASP.NET MVC"
+      }],
+      "soft" : [
+        {
+          "name": "Time management"
+        },
+        {
+          "name":"Strategic thinking"
+        },
+        {
+           "name":"Adaptability"
+          
+        },
+        {
+          "name":"Problem-solving"
+        }
+      ],
+      "tools" : [
+        {
+          "name": "Figma"
+        },
+        {
+          "name":"Canva"
+        },
+        {
+           "name":"Postman"
+          
+        },
+        {
+          "name":"SoapUI"
+        },
+        {
+          "name":"Git"
+        },
+        {
+          "name":"Visual Studio"
+        },
+        {
+          "name":"Cloud Foundry"
+        }
+      ]
+    },
+    
+  
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ePizza App",
+        "category": "ASP.NET MVC",
+        "image": "ePizza.png",
+        "url": "https://github.com/MuskanBh/ePizzaHub"
+      },
+      {
+        "title": "eCommerce App",
+        "category": "",
+        "image":"eCommerce.png",
+        "url":"https://github.com/MuskanBh/ReStore"
+      }
+     
+    ]
+  }
+}
